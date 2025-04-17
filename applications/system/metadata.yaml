@@ -1,0 +1,17 @@
+title: My Joke App
+short_description: This app does something awesome!
+description: |
+    Lol simple app for fz.
+    Initialization process hacking
+
+author: @disaxq
+maintainer: disamiron07@gmail.com
+category: Games
+screenshots:
+    - https://github.com/disaxq/apphack_joke/blob/main/screenshots/Screenshot-20250417-211200.png
+    - https://github.com/disaxq/apphack_joke/blob/main/screenshots/Screenshot-20250417-211204.png
+
+repository: https://github.com/disaxq/apphack_joke
+fap_version: 1.0.0
+firmware_version: 0.7.0
+icon: iconn.png
